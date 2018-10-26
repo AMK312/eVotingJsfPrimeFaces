@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="eVotingJsfPrimeFaces:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/eVotingJsfPrimeFaces_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="eVotingJsfPrimeFaces/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="eVotingJsfPrimeFaces" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
